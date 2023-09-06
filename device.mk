@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
 
 # Display
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
-    debug.sf.frame_rate_multiple_threshold=60 \
     ro.surface_flinger.set_touch_timer_ms=200
 
 PRODUCT_ODM_PROPERTIES += \
